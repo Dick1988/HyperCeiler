@@ -1386,6 +1386,7 @@
     <string name="home_other_high_models">强制识别为高端机型</string>
     <string name="home_other_mi_pad_enable_more_setting_title">解锁桌面设置更多选项</string>
     <string name="home_other_mi_pad_enable_more_setting_desc">解锁后的功能不一定可用，部分功能需要系统底层支持</string>
+    <string name="home_other_disable_prestart">禁用应用预加载</string>
 
     <string name="home_recent_blur_level">模糊等级</string>
     <string name="home_recent_complete_blur_plus">完整模糊补充 (实验性)</string>
@@ -1606,6 +1607,9 @@
     <string name="weather_card_display_type_title">卡片显示样式</string>
     <string name="weather_card_display_type_title_2">浅色模式</string>
     <string name="weather_card_display_type_title_3">深色模式</string>
+    <!--Analytics-->
+    <string name="analytics">Analytics</string>
+    <string name="analytics_fuck_guard">禁止收集遥测数据</string>
     <!--小爱翻译-->
     <string name="aiasst">小爱翻译</string>
     <string name="aiasst_ai_captions">强制启用实时字幕</string>
